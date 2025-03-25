@@ -3,7 +3,7 @@
 ## ⚙️ Configuration Summary:
 - OS: Kali Linux (2024.4)
 - RAM: 4096 MB
-- CPU: 1 core
+- CPU: 4 cores
 - Network Adapter: NAT (for external access)
 - Disk: 40 GB VDI (dynamically allocated)
 - Adapter Type: Intel PRO/1000 MT Desktop
