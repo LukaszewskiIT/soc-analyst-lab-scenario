@@ -6,7 +6,7 @@
 - CPU: 2 cores
 - Network Adapter: **Bridged Adapter** (Realtek PCIe GbE Family Controller)
 - Adapter Type: Intel PRO/1000 MT Desktop
-- Disk: 30 GB VDI (dynamically allocated)
+- Disk: 20 GB VDI (dynamically allocated)
 - Chipset: PIIX3
 - EFI: Enabled
 - PAE/NX: Enabled
