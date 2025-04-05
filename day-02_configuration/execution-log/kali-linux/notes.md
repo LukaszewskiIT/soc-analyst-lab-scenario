@@ -64,8 +64,8 @@ Confirmed the IP assignment with:
 ip a
 ```
 
-![Interfaces file](../screenshots/kali-ip-config-file.png)  
-![IP check](../screenshots/kali-ip-check.png)
+![Interfaces file](../screenshots/kaliNetwork.png)  
+![IP check](../screenshots/kaliIpCheck.png)
 
 ---
 
