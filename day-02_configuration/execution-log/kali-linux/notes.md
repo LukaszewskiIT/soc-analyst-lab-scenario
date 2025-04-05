@@ -28,7 +28,7 @@ Verified VirtualBox network settings:
 
 This adapter type gives Kali internet access but keeps it logically outside the internal network.
 
-![VBox adapter](../screenshots/kali-vbox-network.png)
+![VBox adapter](../screenshots/kaliAdapter.png)
 
 ---
 
